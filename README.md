@@ -11,7 +11,7 @@
 7. Ask a question about the document uploaded --> retrieves most relavant chunks --> passes to LLM --> generates answer --> shown in streamlit UI.
 
 ![User Interface](ui.png)
-
+![UI Screenshot](https://raw.githubusercontent.com/nnnpsk/rag-chromadb/main/ui.png)
    
 
    
