@@ -10,7 +10,7 @@
 6. Upload a PDF/TXT files --> Split into chunks --> Embeddings stored in local chromadb
 7. Ask a question about the document uploaded --> retrieves most relavant chunks --> passes to LLM --> generates answer --> shown in streamlit UI.
 
-![User Interface] (https://raw.githubusercontent.com/nnnpsk/<repo>rag-chromadb/main/ui.png)
+![User Interface] (ui.png)
 
    
 
