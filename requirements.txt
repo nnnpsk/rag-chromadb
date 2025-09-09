@@ -1,0 +1,7 @@
+openai
+torch
+PyPDF2
+chromadb
+streamlit
+ollama
+sentence_transformers
