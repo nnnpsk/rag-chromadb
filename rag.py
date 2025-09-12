@@ -124,7 +124,7 @@ def handle_upload(file, filetype):
         else:
             return
 
-        st.session_state.upload_msg = f"✅ {count} new chunks added"
+        st.session_state.upload_msg = f"{count} new chunks added"
         st.session_state.last_uploaded_filename = file.name
 
 # Process each file upload
